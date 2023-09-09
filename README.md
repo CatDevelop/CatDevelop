@@ -9,6 +9,6 @@ Cейчас обучаюсь на 2 курсе Уральского федера
 Не ограничиваюсь только frontend разработкой, интересуюсь разными аспектами IT-индустрии (GameDev, Arduino, нейронные сети) и уделяю много времени самообразованию - самостоятельно изучаю PHP, SQL, React, HTML, CSS. Имею опыт работы с Git и базами данных.
 
 ### Другие проекты
-- [Automagshina.ru - online store of tires and wheels](https://automagshina.ru/)
-- [Уралмебель74.рф - online store of soft furnishings](https://уралмебель74.рф/)
-- [РекАрт.рф - an advertising agency in Magnitogorsk](https://рекарт.рф/)
+- [Automagshina.ru - онлайн магазин шин и дисков](https://automagshina.ru/)
+- [Уралмебель74.рф - сайт фабрики по производству мягкой мебели](https://уралмебель74.рф/)
+- [РекАрт.рф - сайте рекламного агенства](https://рекарт.рф/)
